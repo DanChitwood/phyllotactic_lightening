@@ -1,2 +1,2 @@
 # phyllotactic_lightening
-shortest geodesic distance weighted paths through a grayscale phyllotaxy voronoi diagram
+shortest weighted geodesic distance paths from points separated by the golden angle on the circumfrence of a grayscale phyllotaxy voronoi diagram
